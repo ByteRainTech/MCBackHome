@@ -1,0 +1,16 @@
+name: BackHome
+version: 1.0
+main: org.plugin.backhome.BackHome
+description: 主城和回家插件~~
+api-version: 1.21
+author: ice
+commands:
+  sethome:
+    description: 设置家
+    usage: /sethome
+  home:
+    description: 传送回家
+    usage: /home
+  city:
+    description: 城市指令
+    usage: /city
